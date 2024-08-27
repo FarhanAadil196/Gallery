@@ -85,7 +85,7 @@ body {
     font-weight: 600;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.hero-btn,button{
+.hero-btn>button{
     border: none;
     margin-top: 17px;
     height: 40px;
